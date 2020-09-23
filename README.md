@@ -1,1 +1,1 @@
-# inital
+# initial
